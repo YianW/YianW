@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi I'm Yian. 👋 🌳
 
 <!--
-**YianW/YianW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clikiii/clikiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently a final year CS student at [City University of Hong Kong](https://www.cityu.edu.hk/).
+
+This is the account I used previously when I interned as a Backend Developer. You can check my main account [here](https://github.com/clikiii).
